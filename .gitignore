@@ -1,0 +1,11 @@
+# Godot cache / editor state (contains exported credentials)
+.godot/
+
+# OS files
+.DS_Store
+
+# Local tool settings
+.claude/settings.local.json
+
+# Temporary files
+*.tmp
